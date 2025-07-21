@@ -1,0 +1,208 @@
+{"ok":true,"result":{"message_id":51,"from":{"id":7755742272,"is_bot":true,"first_name":"enbuyukcimbom","username":"EnBuyukCimbom_bot"},"chat":{"id":5252062301,"first_name":"\u00c7a\u011fan","last_name":"Sel\u00e7uk","username":"caganselcuk2746","type":"private"},"date":1753002693,"text":"\ud83d\udc4b \u041f\u0440\u0438\u0432\u0435\u0442! \u041e\u0442\u043f\u0440\u0430\u0432\u044c\u0442\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435, \u0430 \u0437\u0430\u0442\u0435\u043c \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435, \u0447\u0442\u043e \u0441 \u043d\u0438\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c."}}
+{"ok":true,"result":{"message_id":53,"from":{"id":7755742272,"is_bot":true,"first_name":"enbuyukcimbom","username":"EnBuyukCimbom_bot"},"chat":{"id":5252062301,"first_name":"\u00c7a\u011fan","last_name":"Sel\u00e7uk","username":"caganselcuk2746","type":"private"},"date":1753002697,"text":"\ud83d\udccc \u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f:\n1. \u041e\u0442\u043f\u0440\u0430\u0432\u044c\u0442\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435\n2. \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0438\u0437 \u043c\u0435\u043d\u044e\n3. \u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435"}}
+{"ok":true,"result":{"message_id":55,"from":{"id":7755742272,"is_bot":true,"first_name":"enbuyukcimbom","username":"EnBuyukCimbom_bot"},"chat":{"id":5252062301,"first_name":"\u00c7a\u011fan","last_name":"Sel\u00e7uk","username":"caganselcuk2746","type":"private"},"date":1753002707,"text":"\u2705 \u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043e. \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435:"}}
+✅ test.php çalıştı
+🧪 Komut: Сделать ч/б
+🧪 Komut: Сделать ч/б
+🧪 Komut: Кадрировать 512x512
+✅ test.php çalıştı
+🧪 Komut: Сделать ч/б
+✉️ Gelen mesaj: [Сделать ч/б]
+✅ Görsel kaydedildi: uploads/gray_1753016299.jpg
+Sent: uploads/gray_1753016299.jpg
+🧪 Komut: Кадрировать 512x512
+✉️ Gelen mesaj: [Кадрировать 512x512]
+✅ Görsel kaydedildi: uploads/cropped_1753016386.jpg
+Sent: uploads/cropped_1753016386.jpg
+🧪 Komut: Сохранить как PNG
+✉️ Gelen mesaj: [Сохранить как PNG]
+✅ Görsel kaydedildi: uploads/converted_1753016392.png
+Sent: uploads/converted_1753016392.png
+🧪 Komut: Сохранить как TIFF
+✉️ Gelen mesaj: [Сохранить как TIFF]
+🧪 Komut: Сохранить как JPG
+✉️ Gelen mesaj: [Сохранить как JPG]
+✅ Görsel kaydedildi: uploads/converted_1753016403.jpg
+Sent: uploads/converted_1753016403.jpg
+🧪 Komut: Кадрировать 512x512
+✉️ Gelen mesaj: [Кадрировать 512x512]
+✅ Görsel kaydedildi: uploads/cropped_1753017131.jpg
+Sent: uploads/cropped_1753017131.jpg
+🧪 Komut: Сделать ч/б
+✉️ Gelen mesaj: [Сделать ч/б]
+✅ Görsel kaydedildi: uploads/gray_1753017136.jpg
+Sent: uploads/gray_1753017136.jpg
+🧪 Komut: Сохранить как PNG
+✉️ Gelen mesaj: [Сохранить как PNG]
+✅ Görsel kaydedildi: uploads/converted_1753017139.png
+Sent: uploads/converted_1753017139.png
+🧪 Komut: Сохранить как JPG
+✉️ Gelen mesaj: [Сохранить как JPG]
+✅ Görsel kaydedildi: uploads/converted_1753017143.jpg
+Sent: uploads/converted_1753017143.jpg
+🧪 Komut: Сохранить как TIFF
+✉️ Gelen mesaj: [Сохранить как TIFF]
+🧪 Komut: Кадрировать 512x512
+✉️ Gelen mesaj: [Кадрировать 512x512]
+✅ Görsel kaydedildi: uploads/cropped_1753041319.jpg
+Sent: uploads/cropped_1753041319.jpg
+🧪 Komut: Сделать ч/б
+✉️ Gelen mesaj: [Сделать ч/б]
+✅ Görsel kaydedildi: uploads/gray_1753041366.jpg
+Sent: uploads/gray_1753041366.jpg
+🧪 Komut: Кадрировать 512x512
+✉️ Gelen mesaj: [Кадрировать 512x512]
+✅ Görsel kaydedildi: uploads/cropped_1753041370.jpg
+Sent: uploads/cropped_1753041370.jpg
+🧪 Komut: Сохранить как PNG
+✉️ Gelen mesaj: [Сохранить как PNG]
+✅ Görsel kaydedildi: uploads/converted_1753041376.png
+Sent: uploads/converted_1753041376.png
+🧪 Komut: Сохранить как JPG
+✉️ Gelen mesaj: [Сохранить как JPG]
+✅ Görsel kaydedildi: uploads/converted_1753041380.jpg
+Sent: uploads/converted_1753041380.jpg
+🧪 Komut: Сохранить как TIFF
+✉️ Gelen mesaj: [Сохранить как TIFF]
+🧪 Komut: Кадрировать 512x512
+✉️ Gelen mesaj: [Кадрировать 512x512]
+✅ Görsel kaydedildi: uploads/cropped_1753044037.jpg
+Sent: uploads/cropped_1753044037.jpg
+🧪 Komut: Сделать ч/б
+✉️ Gelen mesaj: [Сделать ч/б]
+✅ Görsel kaydedildi: uploads/gray_1753044043.jpg
+Sent: uploads/gray_1753044043.jpg
+🧪 Komut: Сохранить как PNG
+✉️ Gelen mesaj: [Сохранить как PNG]
+✅ Görsel kaydedildi: uploads/converted_1753044046.png
+Sent: uploads/converted_1753044046.png
+🧪 Komut: Сохранить как JPG
+✉️ Gelen mesaj: [Сохранить как JPG]
+✅ Görsel kaydedildi: uploads/converted_1753044048.jpg
+Sent: uploads/converted_1753044048.jpg
+🧪 Komut: Сохранить как TIFF
+✉️ Gelen mesaj: [Сохранить как TIFF]
+🧪 Komut: Сохранить как TIFF
+🧪 Komut: Кадрировать 512x512
+🧪 Komut: Сделать ч/б
+🧪 Komut: Кадрировать 512x512
+🧪 Komut: Сделать ч/б
+🧪 Komut: Сохранить как PNG
+🧪 Komut: Сохранить как JPG
+🧪 Komut: Сделать ч/б
+🧪 Komut: Кадрировать 512x512
+🧪 Komut: Сохранить как PNG
+🧪 Komut: Сохранить как JPG
+🧪 Komut: Сохранить как TIFF
+🧪 Komut: Сделать ч/б
+✉️ Gelen mesaj: [Сделать ч/б]
+✅ Görsel kaydedildi: uploads/gray_1753044360.jpg
+Sent: uploads/gray_1753044360.jpg
+🧪 Komut: Кадрировать 512x512
+🧪 Komut: Сохранить как TIFF
+🧪 Komut: Сохранить как JPG
+🧪 Komut: Сохранить как PNG
+🧪 Komut: Сделать ч/б
+🧪 Komut: Сделать ч/б
+🧪 Komut: Сохранить как TIFF
+🧪 Komut: Кадрировать 512x512
+🧪 Komut: Сделать ч/б
+🧪 Komut: Сохранить как PNG
+🧪 Komut: Сохранить как JPG
+🧪 Komut: Сохранить как TIFF
+🧪 Komut: Сделать ч/б
+❌ Image::make hatası: Unable to read image from path (downloads/file_6.jpg).
+🧪 Komut: Кадрировать 512x512
+❌ Image::make hatası: Unable to read image from path (downloads/file_6.jpg).
+🧪 Komut: Сохранить как TIFF
+❌ Image::make hatası: Unable to read image from path (downloads/file_6.jpg).
+🧪 Komut: Сделать ч/б
+❌ Image::make hatası: Unable to read image from path (downloads/file_7.jpg).
+🧪 Komut: Сделать ч/б
+❌ Image::make hatası: Unable to read image from path (downloads/file_8.jpg).
+🧪 Komut: Сделать ч/б
+❌ Image::make hatası: Unable to read image from path (downloads/file_8.jpg).
+🧪 Komut: Сохранить как PNG
+❌ Image::make hatası: Unable to read image from path (downloads/file_8.jpg).
+🧪 Komut: Сохранить как JPG
+❌ Image::make hatası: Unable to read image from path (downloads/file_8.jpg).
+🧪 Komut: Сохранить как TIFF
+❌ Image::make hatası: Unable to read image from path (downloads/file_8.jpg).
+🧪 Komut: Кадрировать 512x512
+❌ Image::make hatası: Unable to read image from path (downloads/file_9.jpg).
+🧪 Komut: Кадрировать 512x512
+✉️ Gelen mesaj: [Кадрировать 512x512]
+✅ Görsel kaydedildi: uploads/cropped_1753046270.jpg
+Sent: uploads/cropped_1753046270.jpg
+🧪 Komut: Сохранить как TIFF
+✉️ Gelen mesaj: [Сохранить как TIFF]
+✅ Görsel kaydedildi: uploads/converted_1753046276.tiff
+Sent: uploads/converted_1753046276.tiff
+🧪 Komut: Сохранить как PNG
+✉️ Gelen mesaj: [Сохранить как PNG]
+✅ Görsel kaydedildi: uploads/converted_1753046290.png
+Sent: uploads/converted_1753046290.png
+🧪 Komut: Сделать ч/б
+✉️ Gelen mesaj: [Сделать ч/б]
+✅ Görsel kaydedildi: uploads/gray_1753046293.jpg
+Sent: uploads/gray_1753046293.jpg
+🧪 Komut: Кадрировать 512x512
+✉️ Gelen mesaj: [Кадрировать 512x512]
+✅ Görsel kaydedildi: uploads/cropped_1753046617.jpg
+Sent: uploads/cropped_1753046617.jpg
+🧪 Komut: Сделать ч/б
+✉️ Gelen mesaj: [Сделать ч/б]
+✅ Görsel kaydedildi: uploads/gray_1753046627.jpg
+Sent: uploads/gray_1753046627.jpg
+🧪 Komut: Сохранить как PNG
+✉️ Gelen mesaj: [Сохранить как PNG]
+✅ Görsel kaydedildi: uploads/converted_1753046638.png
+Sent: uploads/converted_1753046638.png
+🧪 Komut: Сохранить как JPG
+✉️ Gelen mesaj: [Сохранить как JPG]
+✅ Görsel kaydedildi: uploads/converted_1753046649.jpg
+Sent: uploads/converted_1753046649.jpg
+🧪 Komut: Сохранить как TIFF
+✉️ Gelen mesaj: [Сохранить как TIFF]
+✅ Görsel kaydedildi: uploads/converted_1753046660.tiff
+Sent: uploads/converted_1753046660.tiff
+🧪 Komut: Сделать ч/б
+✉️ Gelen mesaj: [Сделать ч/б]
+✅ Görsel kaydedildi: uploads/gray_1753094132.jpg
+Sent: uploads/gray_1753094132.jpg
+🧪 Komut: Кадрировать 512x512
+✉️ Gelen mesaj: [Кадрировать 512x512]
+✅ Görsel kaydedildi: uploads/cropped_1753094135.jpg
+Sent: uploads/cropped_1753094135.jpg
+🧪 Komut: Сохранить как PNG
+✉️ Gelen mesaj: [Сохранить как PNG]
+✅ Görsel kaydedildi: uploads/converted_1753094140.png
+Sent: uploads/converted_1753094140.png
+🧪 Komut: Сохранить как JPG
+✉️ Gelen mesaj: [Сохранить как JPG]
+✅ Görsel kaydedildi: uploads/converted_1753094142.jpg
+Sent: uploads/converted_1753094142.jpg
+🧪 Komut: Сохранить как TIFF
+✉️ Gelen mesaj: [Сохранить как TIFF]
+✅ Görsel kaydedildi: uploads/converted_1753094146.tiff
+Sent: uploads/converted_1753094146.tiff
+🧪 Command: Convert to black and white
+✉️ Received message: [Convert to black and white]
+Image saved: uploads/gray_1753094685.jpg
+Sent: uploads/gray_1753094685.jpg
+🧪 Command: Crop 512x512
+✉️ Received message: [Crop 512x512]
+Image saved: uploads/cropped_1753094687.jpg
+Sent: uploads/cropped_1753094687.jpg
+🧪 Command: Save as PNG
+✉️ Received message: [Save as PNG]
+Image saved: uploads/converted_1753094692.png
+Sent: uploads/converted_1753094692.png
+🧪 Command: Save as JPG
+✉️ Received message: [Save as JPG]
+Image saved: uploads/converted_1753094695.jpg
+Sent: uploads/converted_1753094695.jpg
+🧪 Command: Save as TIFF
+✉️ Received message: [Save as TIFF]
+Image saved: uploads/converted_1753094697.tiff
+Sent: uploads/converted_1753094697.tiff
